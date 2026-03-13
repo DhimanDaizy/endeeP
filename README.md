@@ -1,4 +1,14 @@
-# AI Semantic Search & RAG System using Endee Vector Database
+#  AI Semantic Search 
+
+This project demonstrates  AI Semantic Search  using **Endee** as the vector database
+
+- Endee repository: [https://github.com/endee-io/endee](https://github.com/endee-io/endee)
+
+
+> Note: This project is independent and uses Endee only as a backend vector database.
+
+
+# AI Semantic Search 
 
 ## Project Overview
 
@@ -23,14 +33,13 @@ The goal of this project is to build a **semantic document search system** that 
 * Upload PDF documents dynamically
 * Automatic text extraction from PDFs
 * Document chunking for better retrieval accuracy
-* Embedding generation using transformer models
 * Semantic similarity search
 * Vector storage and retrieval using Endee
 * Question answering interface
 * Simple web-based UI using Flask
 
 ---
-![alt text](image.png)
+
 
 ## System Architecture
 
